@@ -34,3 +34,9 @@ Syndicate
 ## Requirements
 
 Python 3.10+
+
+## Usage
+
+```bash
+python gall.py
+```
