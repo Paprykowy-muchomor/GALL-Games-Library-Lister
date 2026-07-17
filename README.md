@@ -40,3 +40,5 @@ Python 3.10+
 ```bash
 python gall.py
 ```
+## Screenshoot
+<img width="633" height="387" alt="image" src="https://github.com/user-attachments/assets/fdb09fee-a6b2-477b-958f-c983c72f295b" />
