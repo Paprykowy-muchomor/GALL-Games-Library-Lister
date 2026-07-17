@@ -40,5 +40,11 @@ Python 3.10+
 ```bash
 python gall.py
 ```
-## Screenshoot
+## Screenshoots
+
+CLI
 <img width="633" height="387" alt="image" src="https://github.com/user-attachments/assets/fdb09fee-a6b2-477b-958f-c983c72f295b" />
+
+OUTPUT
+<img width="1175" height="1212" alt="image" src="https://github.com/user-attachments/assets/57cb3ba5-9a42-4aed-8165-a8c7b06bde3e" />
+
